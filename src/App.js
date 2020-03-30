@@ -10,7 +10,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://discordapp.com/oauth2/authorize?client_id=691669920093700116&permissions=536345936&scope=bot"
           target="_blank"
           rel="noopener noreferrer"
         >
