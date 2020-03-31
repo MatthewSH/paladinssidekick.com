@@ -17,6 +17,15 @@ function App() {
           Invite Paladins Sidekick to your Discord server.
         </a>
         <br/>
+        <a
+          className="App-link"
+          href="https://paladinssidekick.com/discord"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Join the Sidekick Discord server.
+        </a>
+        <br/>
         <small>Full website and documentation coming soon.</small>
       </header>
     </div>
