@@ -1,9 +1,9 @@
 import Layout from '../components/layout';
 
-const Home = () => (
-    <Layout title="Home">
+const Commands = () => (
+    <Layout title="Command List">
         <h1>Hello!</h1>
     </Layout>
 );
 
-export default Home;
+export default Commands;
