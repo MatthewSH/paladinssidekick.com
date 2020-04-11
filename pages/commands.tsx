@@ -2,7 +2,7 @@ import Layout from '../components/layout';
 
 const Commands = () => (
     <Layout title="Command List">
-        <h1>Hello!</h1>
+        <h1>Hey there, we're still working on this page! We'll have it up soon though!</h1>
     </Layout>
 );
 
