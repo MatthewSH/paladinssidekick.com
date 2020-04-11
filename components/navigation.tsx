@@ -4,9 +4,6 @@ import NavDropdown from 'react-bootstrap/navdropdown';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDiscord, faTwitter } from '@fortawesome/free-brands-svg-icons';
 
-
-
-
 const Navigation = () => (
     <Navbar collapseOnSelect expand='lg' bg='dark' variant='dark'>
         <Navbar.Brand href='/'>
@@ -22,6 +19,7 @@ const Navigation = () => (
         <Navbar.Toggle aria-controls='responsive-navbar-nav' />
         <Navbar.Collapse id='responsive-navbar-nav'>
             <Nav className='mr-auto'>
+                <Nav.Link href='/'>Home</Nav.Link>
                 <Nav.Link href='https://discordapp.com/oauth2/authorize?client_id=691669920093700116&permissions=536345936&scope=bot' target='_blank'>Invite the Bot</Nav.Link>
                 <Nav.Link href='/commands'>Command List</Nav.Link>
             </Nav>
