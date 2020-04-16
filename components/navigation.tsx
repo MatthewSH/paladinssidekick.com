@@ -23,7 +23,7 @@ const Navigation = () => (
                 <Nav.Link href='/commands'>Command List</Nav.Link>
             </Nav>
             <Nav>
-                <Nav.Link href='https://paladinssidekick.com/discord' target='_blank'><FontAwesomeIcon icon={faDiscord} className='mr-2' />Join Us On Discord</Nav.Link>
+                <Nav.Link href='https://discord.gg/cyRugRa' target='_blank'><FontAwesomeIcon icon={faDiscord} className='mr-2' />Join Us On Discord</Nav.Link>
                 <Nav.Link href='https://twitter.com/PaladinsDiscord' target='_blank'><FontAwesomeIcon icon={faTwitter} className='mr-2' />Follow Us on Twitter</Nav.Link>
             </Nav>
         </Navbar.Collapse>
