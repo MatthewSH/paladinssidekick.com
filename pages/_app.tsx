@@ -1,6 +1,7 @@
 import React from 'react';
 import App, { Container } from 'next/app';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootswatch/dist/darkly/bootstrap.min.css"; 
 import './_global.css';
 
 import { config, library} from '@fortawesome/fontawesome-svg-core';
