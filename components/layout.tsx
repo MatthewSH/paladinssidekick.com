@@ -7,7 +7,7 @@ const Layout = props => (
         
         <Navigation />
 
-        <div className='px-5 mt-3 text-light'>
+        <div className='px-5 mt-3'>
             {props.children}
         </div>
     </div>
